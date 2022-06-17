@@ -21,3 +21,10 @@ HTML, CSS
 ![First Image](img1.png)
 
 ![Second Image](img2.png)
+
+---
+
+##### Author Info
+
+Made by: Greg Marzec
+[Github](https://github.com/gregmarz)
