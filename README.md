@@ -26,5 +26,5 @@ HTML, CSS
 
 ##### Author Info
 
-Made by: Greg Marzec
+Made by: Greg Marzec  
 [Github](https://github.com/gregmarz)
